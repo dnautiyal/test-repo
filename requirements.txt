@@ -1,0 +1,8 @@
+python-dateutil
+fastapi
+pydantic
+torch
+transformers
+torchvision
+torchaudio
+uvicorn
